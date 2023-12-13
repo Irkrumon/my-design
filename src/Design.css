@@ -245,14 +245,14 @@ justify-content: space-between;
 .op1{
 height: 119.69px;
 width: 172.78px;
-background-color: white;
+
 border-radius: 28.8px;
 overflow: hidden;
 }
 .op2{
     height: 119.69px;
     width: 172.78px;
-   background-color: WHITE;
+ 
     border-radius: 28.8px;
     overflow: hidden;
 }
@@ -271,14 +271,13 @@ hr{
 .space1{
     height: 87.89px;
     width: 139.16px;
-   background-color: white  ;
+ 
     border-radius: 23.23px;
     overflow: hidden;
 }
 .space2{
     height: 87.89pxpx;
     width: 139.16px;
-   background-color: white;
     border-radius: 23.23px;
     overflow: hidden;
 }
@@ -304,7 +303,7 @@ hr{
     width: 139.4px;
     height: 39.37px;
    
-
+background-color: white;
     color: #F00;
 
   display: flex;
@@ -358,6 +357,7 @@ letter-spacing: 1.007px;
 width: 139.164px;
 height: 38.453px;
 flex-direction: column;
+background-color: white;
 justify-content: center;
 flex-shrink: 0;
 color: #00F;
@@ -577,6 +577,7 @@ line-height: normal;
     height: 60.14px;
     width: 100%;
     color: red;
+    background-color: white;
     font-size: 2rem;
     font-weight: 800;
     display: flex;
@@ -599,6 +600,7 @@ line-height: normal;
     width: 100%;
     color:blue;
     font-size: 2rem;
+    background-color: white;
     font-weight: 800;
     display: flex;
     align-items: center;
