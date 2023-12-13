@@ -15,24 +15,75 @@ function Design() {
 </div>
 <div className='kk'>GOLD Oz</div>
 <div className='boxxx'>
-    <div className='op1'></div>
-    <div className='op2'></div>
+    <div className='op1'>
+        <div className='y1'>BUY</div>
+        <div className='y2'>1837.06</div>
+        <div className='y3'>LOW 1837.06</div>
+    </div>
+    <div className='op2'>
+    <div className='y1'>SELL</div>
+        <div className='y8'>1837.06</div>
+        <div className='y9'>HIGH 1837.06</div>
+    </div>
 </div>
 <hr/>
+<div className='silver'>SILVER Oz</div>
 <div className='space'>
-<div className='space1'>  </div>
-<div className='space1'>  </div>
+   
+<div className='space1'> 
+<div className='sp112'><p>BUY</p> </div>
+<div className='sp2'>1837.06</div>
+<div className='sp3'>LOW 1837.06</div>
+ </div>
+<div className='space1'> 
+<div className='sp11'><p className='ll'>SELL</p> </div>
+<div className='sp22'>1837.06</div>
+<div className='sp33'>HIGH 1837.06</div>
+ </div>
 </div>
             </div>
             <div className='spot2'>
+<div className='cl'>
+    LONDON FIX
+</div>
+<div className='pol'>GOLD Oz</div>
+<div className='sql'>
+<div className='q1'>
+    <div className='q11'>
+    <div className='q12'><p>THURSDAY <span>03 August</span></p></div>
+    <div className='q15'>AM</div>
+    </div>
+    <div className='q16'>1837.06</div>
+   
+</div>
+<div className='q1'>
+    <div className='q11'>
+    <div className='q12'><p>THURSDAY <span>03 August</span></p></div>
+    <div className='q15'>PM</div>
+    </div>
+    <div className='q16 haneen'>1837.06</div>
+   
+</div>
 
+</div>
             </div>
             <div className='spot3'><img src={image1} />
                 <p className='para'>-0.270%</p>
             </div>
 
             <div className='spot4'>
-
+<div className='m1'>
+    <div> BUYERS    </div>
+    <div> 25%</div>
+</div>
+<div className='m2'>
+    <div className='cp'>powered by</div>
+    <div>www.bullionstats.com</div>
+</div>
+<div className='m3'>
+    <div>SELLER</div>
+    <div>25%</div>
+</div>
             </div>
         </div>
         <div className='box2'>
@@ -67,6 +118,93 @@ function Design() {
             </div>
             <div className='graph'>
                 <div className='lines'>
+<div className='ansil'>
+    6660.00
+    <hr />
+</div>
+<div className='ansil'>
+    6660.00
+    <hr />
+</div>
+<div className='ansil'>
+    6660.00
+    <hr />
+</div>
+<div className='ansil'>
+    6660.00
+    <hr />
+</div>
+<div className='ansil'>
+    6660.00
+    <hr />
+</div>
+<div className='ansil'>
+    6660.00
+    <hr />
+</div>
+<div className='ansil'>
+    6660.00
+    <hr />
+</div>
+<div className='ansil'>
+    6660.00
+    <hr />
+</div>
+<div className='ansil sunaj'>
+    6660.00
+   
+</div>
+<div className='poli'>
+<div className='poli1'>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+    <div>|</div>
+</div>
+<div className='poli2'>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+<div>3:00</div>
+</div>
+</div>
 
                 </div>
             </div>
@@ -98,7 +236,7 @@ function Design() {
                     NEWS
                 </div>
                 <div className='c2'>
-                    <p>
+                    <p className='jj'>
                     ow the latest Gold News, Gold rate, Gold price in India, Know thelatest Gold 
                     </p>
                 </div>
